@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    margin: 20px 0 63px 0;
+    margin: 0px 0 0px 0;
 
     .wallet-link {
       margin: 10px;
@@ -147,13 +147,13 @@
     z-index: 7;
 
     @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-      background: rgba(36, 39, 41, 0.1);
+      background: rgba(35, 159, 241, 0.1);
       backdrop-filter: blur(40px);
     }
   
     /* slightly transparent fallback for Firefox (not supporting backdrop-filter) */
     @supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
-      background: #181B1C;
+      background: #527e8d;
     }
   }
 }

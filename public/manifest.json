@@ -1,8 +1,8 @@
 {
-  "short_name": "Wonderland",
+  "short_name": "Lava",
   "start_url": ".",
   "homepage": "./",
-  "name": "Wonderland",
+  "name": "Lava",
   "launch_path": "/public/index.html",
   "icons": [
     {
